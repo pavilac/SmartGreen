@@ -7,5 +7,9 @@ Materials list:
 - 0.96" Oled display (Optional)
 
 SmartGreen is capable of:
+- Create an AP for WiFi configuration
 - Send alert messages to a telegram group when soil humidity is under a defined threshold
-- 
+- Configure by telegram messages:
+   - Dry and humid sensor limits (Depends on soil)
+   - Notification humidity threshold level
+
