@@ -13,7 +13,7 @@ SmartGreen is capable of:
    - Actual soil humidity
    - Dry and humid sensor limits (Depends on soil)
    - Notification humidity threshold level
-- Show device moods on display
+- Show device moods using animations on display
 
 ## Introduction
 This code creates an interface between a Telegram Bot in a group and a Arduino (Any), providing total control over it. Following Libraries were used:
