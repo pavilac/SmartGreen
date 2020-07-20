@@ -1,6 +1,8 @@
 # SmartGreen - Arduino Project
 ESP8266 soil humidity meter that sends alerts through Telegram
 
+<img src="https://pbs.twimg.com/media/EaF_52jXsAIXbej?format=jpg&name=medium" width="250">
+
 Materials list:
 - ESP8266 12E
 - Capacitive soil humidity sensor v1.2 connected to A0
