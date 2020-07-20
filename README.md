@@ -3,8 +3,8 @@ ESP8266 soil humidity meter that sends alerts through Telegram
 
 Materials list:
 - ESP8266 12E
-- Capacitive soil humidity sensor v1.2
-- 0.96" Oled display (Optional)
+- Capacitive soil humidity sensor v1.2 connected to A0
+- 0.96" Oled display (Optional) connected to I2C port
 
 SmartGreen is capable of:
 - Create an AP for WiFi configuration. Once configured it works on station mode only
