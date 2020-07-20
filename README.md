@@ -1,5 +1,5 @@
 # SmartGreen - Arduino Project
-ESP8266 soil humidity meter that sends alerts through Telegram
+Smart device that connects to WiFi and send low humidity alerts through a Telegram bot
 
 <img src="https://pbs.twimg.com/media/EaF_52jXsAIXbej?format=jpg&name=medium" width="250">
 
